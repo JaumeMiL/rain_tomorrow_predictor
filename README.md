@@ -4,7 +4,7 @@
 This repository contains the implementation of a Multilayer Perceptron (MLP) model to predict whether it will rain tomorrow or not using the "rain data" dataset. This project was created as part of the coursework for the Artificial Intelligence degree at the Universitat Politècnica de Catalunya.
 
 ## Authors
-- Jaume Mora Ladària
+- Jaume Mora i Ladària
 - Marta Nadal Par
 
 ## Project Structure 📂

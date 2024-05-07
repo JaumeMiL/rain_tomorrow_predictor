@@ -20,7 +20,7 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/JaumeMiL/rain_tomorrow_predictor/
 cd rain_tomorrow_predictor
-
+```
 
 Install the necessary Python packages:
 ```bash

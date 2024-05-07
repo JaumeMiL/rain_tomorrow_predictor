@@ -13,21 +13,14 @@ This repository contains the implementation of a Multilayer Perceptron (MLP) mod
 
 ## Setup and Running 🚀
 
-### Prerequisites
-Ensure you have Python 3.x installed and the following packages:
-- pandas
-- numpy
-- sklearn
-- matplotlib
-- seaborn
-- tensorflow
-
 ### Installation
+Ensure you have Python 3.x installed.
+
 Clone this repository to your local machine:
 ```bash
-git clone https://your-repository-link-here
-cd your-repository-folder
-```
+git clone https://github.com/JaumeMiL/rain_tomorrow_predictor/
+cd rain_tomorrow_predictor
+
 
 Install the necessary Python packages:
 ```bash

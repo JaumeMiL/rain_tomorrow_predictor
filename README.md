@@ -32,10 +32,6 @@ To run the notebook, you can open it using Jupyter Notebook or JupyterLab:
 ```bash
 jupyter notebook MNadal_JMora_Practica1_Notebook.ipynb
 ```
-or
-```bash
-jupyter lab MNadal_JMora_Practica1_Notebook.ipynb
-```
 
 Follow the instructions within the notebook to execute the models.
 
